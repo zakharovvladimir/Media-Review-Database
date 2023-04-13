@@ -53,6 +53,7 @@ jobs:
           username: ${{ secrets.USER }}
           key: ${{ secrets.SSH_KEY }}
           script: |
+            sudo docker pull vladimirzakharov/api_yamdb:latest
             sudo docker-compose stop
             sudo docker-compose rm web
             touch .env
