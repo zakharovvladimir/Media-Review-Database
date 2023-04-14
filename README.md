@@ -58,4 +58,17 @@ Create a database dump:
 docker-compose exec web python manage.py dumpdata > fixtures.json
 ```
 
+## Contributing and Contacts
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Feel free to contact: vladimir.zakharov.s@yandex.ru
+github.com/zakharovvladimir
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
