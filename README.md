@@ -1,9 +1,9 @@
-# YaMDb API
-YaMDb API — collecting reviews of mediacontent.
+# Media Review Database API
+Media Reviews Database API — collecting reviews of mediacontent.
 
 ## Description
 
-Expandable and Flexible The YaMDb collects user feedback on mediacontent.
+Expandable and Flexible The Media Review Database collects user feedback on mediacontent.
 
 ### template .env in location infra/.env
 ```
